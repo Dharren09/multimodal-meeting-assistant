@@ -105,7 +105,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- Your Name - [dharrenpius@icloud.com](mailto:dharrenpius@icloud.com)
+- Dharren Pius Makoha - [dharrenpius@icloud.com](mailto:dharrenpius@icloud.com)
 - GitHub: [Dharren09](https://github.com/Dharren09)
 
 ---
