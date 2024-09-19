@@ -1,0 +1,8 @@
+google-ai-generativelanguage==0.6.6
+langchain==0.2.16
+langchain-anthropic==0.1.23
+langchain-google-genai==1.0.10
+langchain-openai==0.1.25
+python-dotenv==1.0.1
+streamlit==1.38.0
+crewai
